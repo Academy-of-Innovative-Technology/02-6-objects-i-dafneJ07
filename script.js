@@ -41,5 +41,5 @@ var maya = {
 	last:"Of The Tecas",
 	friends: [
      "Zatz", "Chimi", "Rico"
-	]
+    ]
 }
